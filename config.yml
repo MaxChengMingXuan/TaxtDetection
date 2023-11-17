@@ -1,5 +1,5 @@
-path: ../TaxtDetection/data
+path: ../data
 train: train/images
-val: train/images
+val: test/images
 names:
   0: Tag
